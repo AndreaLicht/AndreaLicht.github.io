@@ -1,0 +1,24 @@
+.contenedor{
+    width: 250px ;
+    margin-left:60%;
+}
+
+.form{
+    margin: auto;
+    background-color: #fff;
+    width: 90%;
+    max-width: 400px;
+    padding: 4.5em 3em;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px -5px rgb(0, 0, 0, .3);
+}
+
+.parrafo{
+    background-color:#fef9ff;
+    padding: .5rem;
+    display: flex;
+    width: 700px;
+    align-items:center;
+    justify-content:space-around;
+    align-content:space-between;
+}
