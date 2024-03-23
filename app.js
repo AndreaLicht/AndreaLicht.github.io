@@ -5,7 +5,7 @@
     },
 
     {
-        "url": "img/café.png",
+        "url": "img/cafe.png",
         "nombre": "Proyecto 2"
         },
 
